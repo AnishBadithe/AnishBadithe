@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 - **Languages**: Python, Java, JavaScript, SQL  
 - **Web Development**: HTML, CSS, React, Node.js, Express  
-- **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib  
+- **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Plotly, Cufflinks 
 - **Databases**: MySQL, SQLite, MongoDB
 <!--
 **AnishBadithe/AnishBadithe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
