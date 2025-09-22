@@ -1,7 +1,7 @@
 # I'm Anish
 
 🎓 B.Tech IT Graduate from **Vellore Institute of Technology (VIT), Vellore**  
-💻 Data Science & Full-Stack Development Enthusiast  
+💻 Data Science & AI Enthusiast  
 🏀 Basketball Player | 🧩 Speedcuber
 
 ## 🧑‍💻 About Me
